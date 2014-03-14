@@ -1,0 +1,33 @@
+[submodule "killer"]
+	path = killer
+	url = git@github.com:KillerMinecraft/KillerMinecraft.git
+[submodule "chunk killer"]
+	path = game modes/chunk killer
+	url = git@github.com:KillerMinecraft/ChunkKiller.git
+[submodule "farm killer"]
+	path = game modes/farm killer
+	url = git@github.com:KillerMinecraft/FarmKiller.git
+[submodule "killer on the loose"]
+	path = game modes/killer on the loose
+	url = git@github.com:KillerMinecraft/KillerOnTheLoose.git
+[submodule "last man standing"]
+	path = game modes/last man standing
+	url = git@github.com:KillerMinecraft/LastManStanding.git
+[submodule "portal warfare"]
+	path = game modes/portal warfare
+	url = git@github.com:KillerMinecraft/PortalWarfare.git
+[submodule "copy existing world"]
+	path = world generators/copy existing world
+	url = git@github.com:KillerMinecraft/CopyExistingWorld.git
+[submodule "default world"]
+	path = world generators/default world
+	url = git@github.com:KillerMinecraft/DefaultWorld.git
+[submodule "flying islands"]
+	path = world generators/flying islands
+	url = git@github.com:KillerMinecraft/FlyingIslands.git
+[submodule "lava land"]
+	path = world generators/lava land
+	url = git@github.com:KillerMinecraft/LavaLand.git
+[submodule "superflat"]
+	path = world generators/superflat
+	url = git@github.com:KillerMinecraft/SuperFlat.git
