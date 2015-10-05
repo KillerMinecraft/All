@@ -2,3 +2,5 @@
 server/
 *.jar
 *.zip
+
+.recommenders/
