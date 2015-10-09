@@ -1,6 +1,9 @@
-[submodule "killer"]
-	path = killer
+[submodule "Killer Minecraft"]
+	path = Killer Minecraft
 	url = git@github.com:KillerMinecraft/KillerMinecraft.git
+[submodule "arena"]
+	path = game modes/arena
+	url = git@github.com:KillerMinecraft/Arena.git
 [submodule "chunk killer"]
 	path = game modes/chunk killer
 	url = git@github.com:KillerMinecraft/ChunkKiller.git
@@ -31,6 +34,3 @@
 [submodule "superflat"]
 	path = world generators/superflat
 	url = git@github.com:KillerMinecraft/SuperFlat.git
-[submodule "Killer Minecraft"]
-	path = Killer Minecraft
-	url = git@github.com:KillerMinecraft/KillerMinecraft.git
