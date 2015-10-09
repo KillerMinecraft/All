@@ -31,3 +31,6 @@
 [submodule "superflat"]
 	path = world generators/superflat
 	url = git@github.com:KillerMinecraft/SuperFlat.git
+[submodule "Killer Minecraft"]
+	path = Killer Minecraft
+	url = git@github.com:KillerMinecraft/KillerMinecraft.git
